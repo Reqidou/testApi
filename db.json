@@ -1,14 +1,169 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "code": 1000,
+    "message": "success",
+    "contents": [
+        {
+            "ticket": {
+                "id": 1,
+                "field_num": "#638",
+                "subject": "聚美优品是正品吗？",
+                "content": "是！我们保证出售所有商品均为100%正品。聚美优品作为中国目前领先的，用户最多的化妆品购物网站，每月产生上百万个订单，营业额上亿元，我们对自己的商业信誉无比重视。更多信息可查看",
+                "content_type": "html",
+                "user_id": 1,
+                "user_name": "Lucy",
+                "user_email": "lucy_customer@qq.com",
+                "user_cellphone": "14923491300",
+                "organization_id": null,
+                "assignee_id": 2,
+                "assignee_name": "Tom",
+                "assignee_avatar": null,
+                "user_group_id": null,
+                "user_group_name": null,
+                "template_id": 1,
+                "priority": "高",
+                "status": "开启",
+                "status_en": "open",
+                "platform": "邮件",
+                "satisfaction": null,
+                "custom_fields": {
+                    "TextField_3": "rytffgfgfddddsssｄ大调",
+                    "SelectField_3": "0",
+                    "SelectField_4": "0",
+                    "TextField_38": "我的新位置",
+                    "TextField_40": "文本",
+                    "TextField_41": [
+                        {
+                            "id": 9334,
+                            "url": "https://pro-upload-center.udeskcs.com/aaaa.xlsx?Expires=1718787706&OSSAccessKeyId=bPexlr6MCcadDhfu&Signature=ineI1UotahrTKaD1JHysdz0dQmE%3D",
+                            "name": "aaaa.xlsx",
+                            "size": 18814810
+                        },
+                        {
+                            "id": 9336,
+                            "url": "https://pro-upload-center.udeskcs.com/aaaa.xlsx?Expires=1718787706&OSSAccessKeyId=bPexlr6MCcadDhfu&Signature=ineI1UotahrTKaD1JHysdz0dQmE%3D",
+                            "name": "aaaa.xlsx",
+                            "size": 18814810
+                        }
+                    ]
+                },
+                "tags": "",
+                "followers": [],
+                "im_sub_session_id": 125,
+                "attachments": [
+                    {
+                        "name": "附件1",
+                        "url": "https://qn-public.udesk.cn/%E7%94%A8%E4%BA%8E%E4%B8%8A%E4%BC%A0%E7%9A%84%E6%96%87%E4%BB%B6-1511169203.txt"
+                    }
+                ],
+                "creator_id": 1,
+                "created_at": "2017-07-10T15:45:34.000+08:00",
+                "updated_at": "2017-07-11T15:57:27.000+08:00",
+                "solving_at": null,
+                "resolved_at": null,
+                "closed_at": null,
+                "solved_deadline": null,
+                "replied_at": "2017-07-11T15:57:27.000+08:00",
+                "agent_replied_at": "2017-07-11T15:57:27.000+08:00",
+                "customer_replied_at": "2017-07-10T15:45:33.000+08:00",
+                "replied_by": "alalla"
+            }
+        },
+        {
+            "ticket": {
+                "id": 2,
+                "field_num": "#639",
+                "subject": "如何付款？支持货到付款吗？拍下有货吗？",
+                "content": "聚美优品支持支付宝账户及快捷支付，同时支持国内数十家主流银行的储蓄卡/信用卡支付。确保您的资金安全。此外，北京城8区用户可以选择货到付款。所有在售商品均可直接购买，无需和客服联系。",
+                "content_type": "html",
+                "user_id": 2,
+                "user_name": null,
+                "user_email": "",
+                "user_cellphone": null,
+                "organization_id": null,
+                "assignee_id": 2,
+                "assignee_name": "Tom",
+                "assignee_avatar": null,
+                "user_group_id": null,
+                "user_group_name": null,
+                "template_id": 1,
+                "priority": "高",
+                "status": "已关闭",
+                "status_en": "closed",
+                "platform": "邮件",
+                "satisfaction": null,
+                "custom_fields": {},
+                "tags": "",
+                "followers": [],
+                "im_sub_session_id": 125734,
+                "attachments": [
+                    {
+                        "name": "附件1",
+                        "url": "https://qn-public.udesk.cn/%E7%94%A8%E4%BA%8E%E4%B8%8A%E4%BC%A0%E7%9A%84%E6%96%87%E4%BB%B6-1511169203.txt"
+                    }
+                ],
+                "creator_id": 2,
+                "created_at": "2017-07-10T15:45:34.000+08:00",
+                "updated_at": "2017-07-10T15:45:34.000+08:00",
+                "solving_at": "2017-07-10T15:45:34.000+08:00",
+                "resolved_at": "2017-07-10T15:45:34.000+08:00",
+                "closed_at": "2017-07-10T15:45:34.000+08:00",
+                "solved_deadline": null,
+                "replied_at": "2017-07-10T15:45:34.000+08:00",
+                "agent_replied_at": null,
+                "customer_replied_at": "2017-07-10T15:45:34.000+08:00",
+                "replied_by": ""
+            }
+        },
+        {
+            "ticket": {
+                "id": 3,
+                "field_num": "#640",
+                "subject": "如何使用现金券？",
+                "content": "如何使用现金券？如何使用现金券？如何使用现金券？",
+                "content_type": "html",
+                "user_id": 2,
+                "user_name": null,
+                "user_email": "",
+                "user_cellphone": null,
+                "organization_id": null,
+                "assignee_id": 2,
+                "assignee_name": "Tom",
+                "assignee_avatar": null,
+                "user_group_id": null,
+                "user_group_name": null,
+                "template_id": 1,
+                "priority": "低",
+                "status": "开启",
+                "status_en": "open",
+                "platform": "邮件",
+                "satisfaction": null,
+                "custom_fields": {},
+                "tags": "",
+                "followers": [],
+                "im_sub_session_id": 2357,
+                "attachments": [
+                    {
+                        "name": "附件1",
+                        "url": "https://qn-public.udesk.cn/%E7%94%A8%E4%BA%8E%E4%B8%8A%E4%BC%A0%E7%9A%84%E6%96%87%E4%BB%B6-1511169203.txt"
+                    }
+                ],
+                "creator_id": 2,
+                "created_at": "2017-07-10T15:45:35.000+08:00",
+                "updated_at": "2017-07-10T20:50:48.000+08:00",
+                "solving_at": null,
+                "resolved_at": null,
+                "closed_at": null,
+                "solved_deadline": null,
+                "replied_at": "2017-07-10T20:50:48.000+08:00",
+                "agent_replied_at": "2017-07-10T20:50:48.000+08:00",
+                "customer_replied_at": "2017-07-10T15:45:35.000+08:00",
+                "replied_by": "alalla"
+            }
+        }
+    ],
+    "meta": {
+        "total_count": 3,
+        "total_pages": 1,
+        "current_page": 1
+    }
 }
