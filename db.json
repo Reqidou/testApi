@@ -1,4 +1,6 @@
 {
+  "posts": [
+    {
     "code": 1000,
     "message": "success",
     "contents": [
@@ -167,3 +169,6 @@
         "current_page": 1
     }
 }
+  ]
+}
+
